@@ -6,7 +6,7 @@ I'm a Computer Science graduate from Central Michigan University with a minor in
 
 My experience includes application development at Delta Dental of Michigan, data analytics at Dewpoint, and reviewing programming assignments as a Computer Science grader. I enjoy turning practical problems into clear, usable software.
 
-[LinkedIn](https://linkedin.com/in/sishir-gottumukkala-9a7a43235) · [Portfolio source](https://github.com/gsishir1104/sishir-portfolio)
+[LinkedIn](https://linkedin.com/in/sishir-gottumukkala-9a7a43235) · [KathhaVerse](https://www.kathhaverse.org/) · [Portfolio source](https://github.com/gsishir1104/sishir-portfolio)
 
 ## Technical focus
 
@@ -19,6 +19,7 @@ My experience includes application development at Delta Dental of Michigan, data
 
 | Project | Overview | Technology |
 | --- | --- | --- |
+| [KathhaVerse](https://www.kathhaverse.org/) · [GitHub](https://github.com/gsishir1104/kathha-verse) | AI-powered storytelling and private beta-reading platform with chapter analysis, structured feedback, reader insights, and role-based workspaces. | Next.js, React, TypeScript, Python, FastAPI, PostgreSQL, OpenAI API |
 | [SwapSkill](https://github.com/gsishir1104/swapskill) | Models skill-exchange bookings, credit transfers, and session feedback, with workflow unit tests. | Python, unittest |
 | [AI Resume Analyzer](https://github.com/gsishir1104/ai-resume-analyzer) | Compares resume and job-description text using keyword matching, with a transparent score and missing-term suggestions. | JavaScript, HTML, CSS |
 | [Job Market Intelligence Dashboard](https://github.com/gsishir1104/job-market-intelligence-dashboard) | Summarizes sample job data and provides interactive role, salary, and skill views. | JavaScript, HTML, CSS |
