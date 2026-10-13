@@ -22,7 +22,7 @@ My experience includes application development at Delta Dental of Michigan, data
 | [KathhaVerse](https://www.kathhaverse.org/) · [GitHub](https://github.com/gsishir1104/kathha-verse) | AI-powered storytelling and private beta-reading platform with chapter analysis, structured feedback, reader insights, and role-based workspaces. | Next.js, React, TypeScript, Python, FastAPI, PostgreSQL, OpenAI API |
 | [SwapSkill](https://github.com/gsishir1104/swapskill) | Models skill-exchange bookings, credit transfers, and session feedback, with workflow unit tests. | Python, unittest |
 | [AI Resume Analyzer](https://github.com/gsishir1104/ai-resume-analyzer) | Compares resume and job-description text using keyword matching, with a transparent score and missing-term suggestions. | JavaScript, HTML, CSS |
-| [Job Market Intelligence Dashboard](https://github.com/gsishir1104/job-market-intelligence-dashboard) | Summarizes sample job data and provides interactive role, salary, and skill views. | JavaScript, HTML, CSS |
+| [Job Market Intelligence Dashboard](https://gsishir1104.github.io/job-market-intelligence-dashboard/) · [GitHub](https://github.com/gsishir1104/job-market-intelligence-dashboard) | Summarizes sample job data and provides interactive role, salary, and skill views. | JavaScript, HTML, CSS |
 | [Player Retention Predictor](https://github.com/gsishir1104/player-retention-predictor) | Demonstrates retention and churn metrics through an interactive simulation. | JavaScript, HTML, CSS |
 | [Personal Portfolio](https://github.com/gsishir1104/sishir-portfolio) | Presents my experience and projects through a responsive portfolio website. | HTML, CSS |
 
